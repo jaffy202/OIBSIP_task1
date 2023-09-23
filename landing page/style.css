@@ -49,10 +49,6 @@ input{
     font-size: 25px;
     height: 50px;
 }
-ul{
-    list-style-type: none;
-    display: inline;
-}
 #icon{
     width: 150px;
     padding-left: 50px;
